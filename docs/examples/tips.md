@@ -3,7 +3,7 @@ title: Tips, Tricks and Troubleshooting
 permalink: examples/tips
 ---
 
-* [Changing the Base URL](#changing-the-base-url)
+* [Changing the Base URL](#changing-the-base-urltest)
 * [Handling Date Fields](#handling-date-fields)
 
 ## Changing the Base URL

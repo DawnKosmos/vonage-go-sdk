@@ -33,10 +33,10 @@ Create a `talk` action to read some text into the call:
 Use `notify` to send a particular data payload to a nominated URL:
 
 ```go
-	url := []string{"https://example.com/webhooks/notify"}
+	urltest := []string{"https://example.com/webhooks/notify"}
 	data := make(map[string]string)
 	data["stage"] = "Registration"
-	ping := ncco.NotifyAction{EventUrl: url, Payload: data}
+	ping := ncco.NotifyAction{EventUrl: urltest, Payload: data}
 ```
 
 This feature is useful for marking progress through a call and that the user is still connected.
