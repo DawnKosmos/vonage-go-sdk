@@ -1,4 +1,4 @@
-module github.com/vonage/vonage-go-sdk
+module github.com/DawnKosmos/vonage-go-sdk
 
 go 1.13
 

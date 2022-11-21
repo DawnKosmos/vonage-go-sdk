@@ -4,8 +4,8 @@ import (
 	"context"
 	"encoding/json"
 
+	"github.com/DawnKosmos/vonage-go-sdk/internal/application"
 	"github.com/antihax/optional"
-	"github.com/vonage/vonage-go-sdk/internal/application"
 )
 
 // ApplicationClient for working with the Application API

@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"io/ioutil"
 
+	"github.com/DawnKosmos/vonage-go-sdk/internal/sms"
 	"github.com/antihax/optional"
-	"github.com/vonage/vonage-go-sdk/internal/sms"
 )
 
 // SMSClient for working with the SMS API

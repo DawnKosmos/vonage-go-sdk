@@ -4,8 +4,8 @@ import (
 	"context"
 	"encoding/json"
 
+	"github.com/DawnKosmos/vonage-go-sdk/internal/number"
 	"github.com/antihax/optional"
-	"github.com/vonage/vonage-go-sdk/internal/number"
 )
 
 // NumbersClient for working with the Numbers API

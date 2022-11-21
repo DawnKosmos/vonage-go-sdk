@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
-	"github.com/vonage/vonage-go-sdk/jwt"
+	"github.com/DawnKosmos/vonage-go-sdk/jwt"
 	"io/ioutil"
 	"log"
 	"net/http"

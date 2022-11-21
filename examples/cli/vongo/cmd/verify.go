@@ -20,8 +20,7 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/spf13/cobra"
-	"github.com/vonage/vonage-go-sdk"
+	"github.com/DawnKosmos/vonage-go-sdk"
 )
 
 // verifyCmd represents the verify command

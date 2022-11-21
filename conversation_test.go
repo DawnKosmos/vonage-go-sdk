@@ -2,8 +2,8 @@ package vonage
 
 import (
 	"fmt"
-	"github.com/vonage/vonage-go-sdk/internal/conversation"
-	"github.com/vonage/vonage-go-sdk/jwt"
+	"github.com/DawnKosmos/vonage-go-sdk/internal/conversation"
+	"github.com/DawnKosmos/vonage-go-sdk/jwt"
 	"net/http"
 	"testing"
 )

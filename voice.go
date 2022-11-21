@@ -5,9 +5,9 @@ import (
 	"encoding/json"
 	"errors"
 
+	"github.com/DawnKosmos/vonage-go-sdk/internal/voice"
+	"github.com/DawnKosmos/vonage-go-sdk/ncco"
 	"github.com/antihax/optional"
-	"github.com/vonage/vonage-go-sdk/internal/voice"
-	"github.com/vonage/vonage-go-sdk/ncco"
 )
 
 // VoiceClient for working with the Voice API
